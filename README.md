@@ -4,7 +4,7 @@ Even though jQuery Owl Carousel 2 hasn't been updated for a long time, it's stil
 
 ### Some notes:
 
-The project uses the following colors:
+*The project uses the following colors*:
 
 - Body bg: #ffffff
 - Content 1: #333944
@@ -13,12 +13,12 @@ The project uses the following colors:
 - Hover color 1: #005dff
 - Hover color 2: #000000
 
-Image sizes:
+*Image sizes*:
 
-Original: 307x260px
-**Recommended size: 921x780px**
+- Original: 307x260px
+- **Recommended size: 921x780px**
 
-Google fonts: Open Sans (*400, 400 Italic, 500, 500 Italic, 700, 700 Italic*).
+*Google fonts*: Open Sans (*400, 400 Italic, 500, 500 Italic, 700, 700 Italic*).
 
 I also use the "**mw-**" prefix for CSS classes and IDs. This should make it easier to use this carousel if you want to add it to your project, since using this prefix will reduce the chance of conflicts with your project's styles.
 
