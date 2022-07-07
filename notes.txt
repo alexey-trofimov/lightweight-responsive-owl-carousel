@@ -1,0 +1,30 @@
+--- Lightweight Responsive Owl Carousel ---
+
+--
+Some notes:
+--
+
+--
+Google fonts:
+--
+
+1. Open Sans: 400, 400 Italic, 500, 500 Italic, 700, 700 Italic; Link: https://fonts.google.com/specimen/Open+Sans
+font-family: 'Open Sans', sans-serif;
+
+--
+Colors:
+--
+
+Body bg: #ffffff
+Content 1: #333944
+Content 2: #1f2329
+Metadata: #757c89
+Hover color 1: #005dff
+Hover color 2: #000000
+
+--
+Image sizes:
+--
+
+Original: 307x260px
+Recommended size: 921x780px
