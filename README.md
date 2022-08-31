@@ -1,6 +1,6 @@
 ## Lightweight Responsive Owl Carousel
 
-Even though jQuery Owl Carousel 2 hasn't been updated for a long time, it's still one of the best image carousel plugins out there. I really love using this carousel for my projects, and I want to share with you one of the carousel design options. It's a responsive and lightweight carousel with a minimal and clean design to showcase your work. A **demo** of this carousel is available at the following link: [Lightweight-Responsive-Carousel](https://demo.minimalweb.site/lightweight-responsive-owl-carousel/). Demonstration in **Cyrillic** (Russian language): [Cyrillic-Demo](https://demo.minimalweb.site/lightweight-responsive-owl-carousel/russian-language.html).
+Even though jQuery Owl Carousel 2 hasn't been updated for a long time, it's still one of the best image carousel plugins out there. I really love using this carousel for my projects, and I want to share with you one of the carousel design options. It's a responsive and lightweight carousel with a minimal and clean design to showcase your work. A **demo** of this carousel is available at the following link: [Lightweight-Responsive-Carousel](https://demo.minimalweb.net/lightweight-responsive-owl-carousel/). Demonstration in **Cyrillic** (Russian language): [Cyrillic-Demo](https://demo.minimalweb.net/lightweight-responsive-owl-carousel/russian-language.html).
 
 ### Some notes:
 
