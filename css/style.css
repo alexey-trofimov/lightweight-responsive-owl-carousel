@@ -1,6 +1,6 @@
 /*
 Main stylesheet
-style.css v1.0
+style.css v1.0.1
 
 Project name: Lightweight Responsive Owl Carousel
 Project URL: https://demo.minimalweb.net/lightweight-responsive-owl-carousel/
@@ -124,6 +124,22 @@ body {
 2 - Carousel styles
 --------------------------------------------------------
 */
+
+/* box-sizing for the carousel */
+.mw-border-box,
+.mw-border-box * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.mw-border-box::before,
+.mw-border-box::after,
+.mw-border-box *::before,
+.mw-border-box *::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
 
 /* carousel item */
 .mw-main-carousel-item {
